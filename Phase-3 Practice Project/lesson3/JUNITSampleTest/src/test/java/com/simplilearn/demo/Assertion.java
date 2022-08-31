@@ -28,7 +28,7 @@ class Assertion {
 		 String name=null;
 		assertNull(name);
 		 
-		 String name1="Nikunj";
+		 String name1="Yuvarani";
 		 assertNotNull(name1);
 }
 	 
