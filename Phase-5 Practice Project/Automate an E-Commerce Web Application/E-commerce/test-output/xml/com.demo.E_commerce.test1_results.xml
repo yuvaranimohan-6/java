@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="41.183">
+  <properties />
+  
+  
+            <testcase name="flipkart" time="41.183" classname="com.demo.E_commerce.test1" />
+      
+</testsuite>
